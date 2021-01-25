@@ -54,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611564164382</updated>
       <workItem from="1611564167783" duration="7000" />
-      <workItem from="1611564206662" duration="117000" />
+      <workItem from="1611564206662" duration="466000" />
     </task>
     <servers />
   </component>
@@ -66,19 +66,24 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="626" y="159" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1611564316697" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1611564666096">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611564666096" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1611564666096">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611564666096" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1611564666096">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611564666095" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1611564666096">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611564666096" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/clone$main.coverage" NAME="main Coverage Results" MODIFIED="1611564328699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/clone$main.coverage" NAME="main Coverage Results" MODIFIED="1611564666084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
